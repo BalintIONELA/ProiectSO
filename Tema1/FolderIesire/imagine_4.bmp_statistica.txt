@@ -8,5 +8,3 @@ contorul de legaturi: 1
 drepturi de acces user: 100644
 drepturi de acces grup: 004
 drepturi de acces altii: 006
-
-X:\Proj\E\E0002\EE_Datenmanagement
